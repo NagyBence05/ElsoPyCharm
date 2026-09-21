@@ -1,2 +1,3 @@
 # ElsoPyCharm
+készítő: Nagy Bence
 
